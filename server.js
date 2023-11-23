@@ -8,7 +8,7 @@ const db = knex({
   connection: {
     connectionString:
       "postgres://smart_brain_db_ay4l_user:acLJxj1sOc0N6Kv7G9X6GrKg7zg56wZL@dpg-clfk0fnjc5ks73e7pjg0-a.frankfurt-postgres.render.com/smart_brain_db_ay4l",
-    host: "dpg-clfk0fnjc5ks73e7pjg0-a",
+    host: "frankfurt-postgres.render.com",
     port: 5432,
     user: "smart_brain_db_ay4l_user",
     password: "acLJxj1sOc0N6Kv7G9X6GrKg7zg56wZL",
